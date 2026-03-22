@@ -39,7 +39,7 @@ Solo necesitas tener instalado:
 
 Abre una terminal y clona el proyecto:
 ```bash
-git clone https://github.com/tu-usuario/monitoreo-de-proyectos.git
+git clone https://github.com/LautaroNovello/Monitor-De-Proyecto.git
 cd monitoreo-de-proyectos
 ```
 
